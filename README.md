@@ -1,5 +1,5 @@
 
-# Disease Prediction using Machine Learning
+# Disease Prediction From Medical Data using Machine Learning
 
 This repository contains a complete machine learning pipeline for predicting diseases based on symptoms using the Disease-Symptom dataset from Kaggle. The project involves data preprocessing, model building, and advanced visualization techniques to create a robust and interpretable disease prediction model.
 
